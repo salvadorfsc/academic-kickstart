@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of Physics at the Instituto Federal de Santa Catarina. His research interests include thermodynamics, statistical mechanics and Monte Carlo Methods Simulation.
+Daniel Salvador is a professor of Physics at the Instituto Federal de Santa Catarina. His research interests include thermodynamics, statistical mechanics and Monte Carlo Methods Simulation.
