@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Thermodynamics and Statistical Mechanics
+    institution: Universidade Federal de Santa Catarina
+    year: 2023
+  - course: Msc in Condensed Matter Physics
+    institution: Universidade Federal de Santa Catarina
+    year: 2011
+  - course: Physics
+    institution: Universidade Federal de Santa Catarina
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
